@@ -3,11 +3,11 @@ public class Compito {
 
 	public static void main(String[] args) {
 		System.out.println();
-		System.out.println("STAMPA ESERCIZIO 1b");
+		System.out.println("STAMPA ESERCIZIO 16666");
 		System.out.println(enigma(8));
 		System.out.println(enigma(12));
 		System.out.println(enigma(25));
-		System.out.println ("STAMPA ESERCIZIO 1a");
+		System.out.println ("STAMPA ESERCIZIO 1a77777");
 		int conto=0;
 		int[] a = {9, 3, 5, 6, 4, 5};
 		int n=20, i;
